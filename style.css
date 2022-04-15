@@ -22,7 +22,7 @@ li a:hover {
 
 .cover {
     height: 500px;
-    background-image: url(file:///D:/Programacion/CevicheWok/media/payson-scott-QbVuN17sSQE-unsplash.jpg);
+    background-image: url(media/payson-scott-QbVuN17sSQE-unsplash.jpg);
     color: white;
     background-size: cover;
     background-position: center;
