@@ -7,9 +7,9 @@ body {
 .static {
     background-color: #f8f9fa;
     box-shadow: 0px 1px 5px rgba(0,0,0,0.5);
-    position: fixed;
+    /*position: fixed;
     width: 100%;
-    z-index: 10;
+    z-index: 10;*/
 }
 
 li a {
